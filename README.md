@@ -46,7 +46,7 @@ Copy code <br>
 npm run dev <br>
 Visit http://localhost:3000 in your browser to view the app.
 
-Deployment
+# Deployment:
 The app is deployed on Netlify. <br>
 Live link: https://frontenduiintern.netlify.app/ <br>
 
