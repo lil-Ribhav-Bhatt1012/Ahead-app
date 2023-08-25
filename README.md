@@ -47,7 +47,8 @@ npm run dev <br>
 Visit http://localhost:3000 in your browser to view the app.
 
 Deployment
-The app is optimized for deployment on platforms like Vercel and Netlify. Follow platform-specific guidelines for deployment.
+The app is deployed on Netlify. <br>
+Live link: https://frontenduiintern.netlify.app/ <br>
 
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
